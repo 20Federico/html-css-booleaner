@@ -1,3 +1,8 @@
+body{
+    width: 60%;
+    margin: auto;
+}
+
 header{
     background-color: rgb(49, 134, 190);
     background-image: url(../img/pattern.png);
