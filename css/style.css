@@ -55,6 +55,10 @@ ul{
     width: 50%;
 }
 
+table{
+    border-collapse: collapse;
+}
+
 thead{
     color: white;
     text-align: left;
